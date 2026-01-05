@@ -8,31 +8,38 @@ This project implements a hierarchical Graph Neural Network (GNN) to predict pep
 
 ## File Structure
 
-- **phys188_final_project_atomic_to_peptide_gnn.ipynb**  
+- **phys188_final_project_atomic_to_peptide_gnn.ipynb**
+
   Contains the two GNNs and predictions, along with application to a bioengineered peptide chain at the end.
 
 - **physics_188_paper_review.pdf**
 
-  Contains the written review, analysis, and methodology of this project. 
+  Contains the written review, analysis, and methodology of this project.
 
-- **README.md**  
-  This file, explaining what's what.
+- **README.md**
 
-- **requirements.txt**  
-  All imports needed for to run the ipynb in totality.
+  This file, explaining what’s what.
 
-- **data/**  
-  Data collected from out cited research papers.
-  
-  - **Train_clean.csv**  
-    Peptide sequence and data on whether they are or aren't antimicrobial (amp) to TRAIN peptide gnn.
-  
-  - **Test_clean.csv**  
-    Peptide sequence and data on whether they are or aren't antimicrobial (amp) to TEST peptide gnn.
-  
-  - **aaindexc/**  
-    An index of non-cannonical amino acids used in the atomic gnn.
-    
+- **requirements.txt**
+
+  All imports needed to run the Jupyter notebook in totality.
+
+- **data/**
+
+  Data collected from our cited research papers.
+
+  - **Train_clean.csv**
+
+    Peptide sequences and labels indicating whether they are antimicrobial (AMP) or non-antimicrobial, used to train the peptide-level GNN.
+
+  - **Test_clean.csv**
+
+    Peptide sequences and labels indicating whether they are antimicrobial (AMP) or non-antimicrobial, used to test the peptide-level GNN.
+
+  - **aaindexc/**
+
+    Index of non-canonical amino acids used in the atomic-level GNN.
+
     - **ncAAs/**
     - **quality/**
     - **models/**
