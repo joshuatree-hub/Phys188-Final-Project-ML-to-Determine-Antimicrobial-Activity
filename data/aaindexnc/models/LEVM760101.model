@@ -1,0 +1,13 @@
+DEPENDENT :  LEVM760101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+   102.400      2  1.648372     0.162  # O
+    17.783      4 -1.234883     0.292  # n
+    35.459      7 -0.343410     0.057  # c
+    11.147      8 -0.894883     0.268  # [C@
+     7.326     11  1.745891     0.645  # c2
+   135.463     13  4.163720     0.357  # +
+ABSOLUTE_TERM :    -3.565
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         4.3

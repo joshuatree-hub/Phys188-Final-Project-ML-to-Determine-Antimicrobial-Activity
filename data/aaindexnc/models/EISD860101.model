@@ -1,0 +1,15 @@
+DEPENDENT :  EISD860101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    11.274      2 -0.459744     0.136  # O
+    30.861      4  1.008602     0.181  # n
+    70.778      6  0.511837     0.060  # C
+    63.164      7  0.287571     0.036  # c
+     4.118      9  0.423722     0.208  # S
+     9.062     11 -1.163618     0.386  # c2
+    37.332     12 -1.261182     0.206  # =
+   123.415     13 -2.694361     0.242  # +
+ABSOLUTE_TERM :     1.099
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1.7

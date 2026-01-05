@@ -1,0 +1,13 @@
+DEPENDENT :  JOND920101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    10.161      4 -0.015084     0.004  # n
+     2.873      7 -0.002652     0.001  # c
+     4.079      8 -0.010620     0.005  # [C@
+    45.747      9 -0.047860     0.007  # S
+     3.976     10 -0.009255     0.004  # c1
+    15.345     12 -0.020060     0.005  # =
+ABSOLUTE_TERM :     0.100
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1.3

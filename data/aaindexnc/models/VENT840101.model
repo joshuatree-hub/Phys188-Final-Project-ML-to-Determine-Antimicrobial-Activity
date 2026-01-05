@@ -1,0 +1,15 @@
+DEPENDENT :  VENT840101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     1.613      1 -0.254977     0.200  # =O
+     2.610      2 -0.200139     0.123  # O
+    23.524      6  0.222493     0.045  # C
+    31.986      7  0.263360     0.046  # c
+     6.618      9 -0.443939     0.172  # S
+     8.469     10 -0.333216     0.114  # c1
+     4.695     11 -0.661893     0.305  # c2
+    29.201     13 -0.818721     0.151  # +
+ABSOLUTE_TERM :     0.209
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1.3

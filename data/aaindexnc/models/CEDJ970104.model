@@ -1,0 +1,13 @@
+DEPENDENT :  CEDJ970104
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     9.607      4 -1.564505     0.504  # n
+     3.468      7 -0.310777     0.166  # c
+     4.387      8 -1.174716     0.560  # [C@
+    40.011      9 -4.774149     0.754  # S
+     2.609     10 -0.799756     0.495  # c1
+    10.196     12 -1.744149     0.546  # =
+ABSOLUTE_TERM :     9.843
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1.6

@@ -1,0 +1,15 @@
+DEPENDENT :  JANJ780102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    46.657      2 -29.83571     4.367  # O
+    22.383      3 -29.89285     6.318  # N
+     8.474      5 42.600000    14.633  # N=
+    13.450      7  5.217857     1.422  # c
+    23.376     10 -17.66071     3.652  # c1
+     3.206     11 -17.74285     9.907  # c2
+     4.339     12 17.628571     8.462  # =
+    18.434     13 -25.87142     6.025  # +
+ABSOLUTE_TERM :   132.257
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1.9

@@ -1,0 +1,13 @@
+DEPENDENT :  GEIM800110
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    22.391      1  0.472958     0.099  # =O
+    22.508      6 -0.169576     0.035  # C
+    57.596      7 -0.275224     0.036  # c
+    33.903     10  0.515123     0.088  # c1
+     9.264     11  0.712645     0.234  # c2
+     5.576     13  0.270429     0.114  # +
+ABSOLUTE_TERM :     1.114
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         4.3

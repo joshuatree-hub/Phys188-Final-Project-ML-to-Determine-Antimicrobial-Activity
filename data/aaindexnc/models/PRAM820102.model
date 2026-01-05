@@ -1,0 +1,13 @@
+DEPENDENT :  PRAM820102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    23.600      3 -0.044077     0.009  # N
+    15.808      5  0.111944     0.028  # N=
+    50.700      6 -0.021122     0.002  # C
+    47.340      7 -0.012528     0.001  # c
+    61.369      9 -0.081533     0.010  # S
+     1.983     11  0.025574     0.018  # c2
+ABSOLUTE_TERM :     0.274
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1.3

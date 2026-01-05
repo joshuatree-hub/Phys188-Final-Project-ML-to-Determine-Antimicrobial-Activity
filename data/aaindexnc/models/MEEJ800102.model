@@ -1,0 +1,13 @@
+DEPENDENT :  MEEJ800102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     9.549      2 -3.734535     1.208  # O
+     2.701      4  2.601867     1.582  # n
+    26.042      6  2.817679     0.552  # C
+    50.503      7  1.938146     0.272  # c
+     2.408     12 -2.909305     1.874  # =
+    30.746     13 -11.47155     2.068  # +
+ABSOLUTE_TERM :     2.758
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         2

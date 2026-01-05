@@ -1,0 +1,15 @@
+DEPENDENT :  FASG760105
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     1.071      2 -0.049646     0.047  # O
+    12.980      6  0.082952     0.023  # C
+    23.667      7  0.076799     0.015  # c
+     7.119      8 -0.167283     0.062  # [C@
+     9.551      9 -0.219686     0.071  # S
+    26.011     10 -0.234196     0.045  # c1
+    11.526     12 -0.251640     0.074  # =
+    36.749     13 -0.384159     0.063  # +
+ABSOLUTE_TERM :     2.506
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1

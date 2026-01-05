@@ -1,0 +1,14 @@
+DEPENDENT :  PALJ810114
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     9.067      3  0.212393     0.070  # N
+    48.017      6 -0.266807     0.038  # C
+    49.074      7 -0.259752     0.037  # c
+    15.877      9 -0.542278     0.136  # S
+    21.217     10  0.424764     0.092  # c1
+    27.018     11  1.244402     0.239  # c2
+     3.693     12  0.217773     0.113  # =
+ABSOLUTE_TERM :     1.594
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1

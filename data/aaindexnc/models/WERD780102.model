@@ -1,0 +1,13 @@
+DEPENDENT :  WERD780102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     7.013      3  0.537172     0.202  # N
+     3.640      5 -1.164285     0.610  # N=
+    11.622      6 -0.230060     0.067  # C
+     3.859      8  0.375784     0.191  # [C@
+     1.415      9 -0.267887     0.225  # S
+     3.488     10 -0.166252     0.089  # c1
+ABSOLUTE_TERM :    -0.179
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1

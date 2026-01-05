@@ -1,0 +1,14 @@
+DEPENDENT :  OOBM850105
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     6.975      4 -3.803125     1.439  # n
+     3.259      5 -4.710000     2.608  # N=
+     5.141      6 -0.968035     0.426  # C
+     3.886      7 -0.499285     0.253  # c
+    11.076      9 -4.712678     1.415  # S
+     1.514     11  3.386696     2.752  # c2
+    12.377     13  7.203392     2.047  # +
+ABSOLUTE_TERM :     9.284
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1

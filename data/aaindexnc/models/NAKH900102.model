@@ -1,0 +1,12 @@
+DEPENDENT :  NAKH900102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     8.766      1 -0.646367     0.218  # =O
+     5.525      4 -0.456955     0.194  # n
+    26.739      7 -0.203165     0.039  # c
+     4.246      8 -0.445455     0.216  # [C@
+    20.447      9 -1.291367     0.285  # S
+ABSOLUTE_TERM :     4.218
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	5
+FISHER STAT.         1.7

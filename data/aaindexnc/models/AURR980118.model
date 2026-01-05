@@ -1,0 +1,13 @@
+DEPENDENT :  AURR980118
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     7.051      4  0.214338     0.080  # n
+     1.489      5 -0.202486     0.165  # N=
+     8.748      6  0.106613     0.036  # C
+     4.432      7  0.042892     0.020  # c
+     2.628      8 -0.158571     0.097  # [C@
+     2.735     11 -0.340123     0.205  # c2
+ABSOLUTE_TERM :     0.681
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1

@@ -1,0 +1,13 @@
+DEPENDENT :  GARJ730101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    16.529      2 -0.234981     0.057  # O
+    32.027      6  0.193009     0.034  # C
+    74.908      7  0.303936     0.035  # c
+     3.450     10 -0.158450     0.085  # c1
+   204.887     11  3.264524     0.228  # c2
+    54.501     13 -0.824688     0.111  # +
+ABSOLUTE_TERM :     0.211
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1.6

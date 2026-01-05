@@ -1,0 +1,13 @@
+DEPENDENT :  CHOP780212
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     3.729      4  0.027452     0.014  # n
+    12.358      6 -0.019443     0.005  # C
+     5.566      7 -0.011531     0.004  # c
+     1.706      9  0.027626     0.021  # S
+     2.084     10  0.020056     0.013  # c1
+     5.572     12  0.036281     0.015  # =
+ABSOLUTE_TERM :     0.122
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1

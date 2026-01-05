@@ -1,0 +1,14 @@
+DEPENDENT :  ROSM880102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    67.556      2  1.926889     0.234  # O
+    21.211      3  2.174423     0.472  # N
+     4.725      5 -2.970628     1.366  # N=
+     5.577      6 -0.386549     0.163  # C
+     4.971      7 -0.152929     0.068  # c
+     2.526      8 -0.693921     0.436  # [C@
+    28.597     13  2.849385     0.532  # +
+ABSOLUTE_TERM :    -5.527
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.6

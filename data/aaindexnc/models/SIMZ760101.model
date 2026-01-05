@@ -1,0 +1,12 @@
+DEPENDENT :  SIMZ760101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    48.424      6  0.608649     0.087  # C
+     8.802      7  0.215259     0.072  # c
+     5.403     10  0.489152     0.210  # c1
+    23.344     12 -1.094866     0.226  # =
+     4.652     13 -0.577440     0.267  # +
+ABSOLUTE_TERM :    -0.274
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	5
+FISHER STAT.         2.2

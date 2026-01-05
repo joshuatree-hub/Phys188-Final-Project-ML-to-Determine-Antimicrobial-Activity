@@ -1,0 +1,12 @@
+DEPENDENT :  BEGF750101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     1.905      2 -0.100243     0.072  # O
+     4.655      3 -0.161548     0.074  # N
+     8.273      6  0.134582     0.046  # C
+    10.664      7  0.122540     0.037  # c
+    10.267     10 -0.350152     0.109  # c1
+ABSOLUTE_TERM :     0.470
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	5
+FISHER STAT.         1

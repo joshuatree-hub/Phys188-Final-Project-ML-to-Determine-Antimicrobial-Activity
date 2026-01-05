@@ -1,0 +1,13 @@
+DEPENDENT :  ANDN920101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    15.699      1  0.414828     0.104  # =O
+     6.770      6 -0.094615     0.036  # C
+     2.698      8  0.177828     0.108  # [C@
+     9.606      9  0.410020     0.132  # S
+    11.842     10  0.180348     0.052  # c1
+     7.426     13  0.316187     0.116  # +
+ABSOLUTE_TERM :     3.960
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1.3

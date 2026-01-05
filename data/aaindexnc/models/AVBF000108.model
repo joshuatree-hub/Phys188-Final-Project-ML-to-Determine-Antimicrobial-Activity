@@ -1,0 +1,13 @@
+DEPENDENT :  AVBF000108
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    12.777      2  4.904598     1.372  # O
+     8.234      3  5.291992     1.844  # N
+     2.886      4  2.986331     1.757  # n
+     1.445      7 -0.285633     0.237  # c
+    15.007     12 -11.07110     2.857  # =
+     4.869     13 -6.159839     2.791  # +
+ABSOLUTE_TERM :    -3.493
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1.1

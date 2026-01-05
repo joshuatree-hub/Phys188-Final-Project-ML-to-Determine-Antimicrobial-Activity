@@ -1,0 +1,14 @@
+DEPENDENT :  KOEP990102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    18.143      2  0.622738     0.146  # O
+     6.263      3  0.662773     0.264  # N
+    18.095      4  0.918487     0.215  # n
+     3.422      5 -1.573722     0.850  # N=
+     9.239      7 -0.130616     0.042  # c
+    15.346      8 -0.926046     0.236  # [C@
+     3.397      9 -0.595400     0.323  # S
+ABSOLUTE_TERM :    -1.056
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.2

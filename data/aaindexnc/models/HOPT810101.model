@@ -1,0 +1,14 @@
+DEPENDENT :  HOPT810101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    83.483      2  1.814685     0.198  # O
+    12.087      4 -1.214860     0.349  # n
+    24.030      7 -0.551223     0.112  # c
+     8.813      8 -0.949300     0.319  # [C@
+     4.066     10  0.583391     0.289  # c1
+     7.783     11  2.224650     0.797  # c2
+    93.179     13  4.166783     0.431  # +
+ABSOLUTE_TERM :    -3.846
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         2.7

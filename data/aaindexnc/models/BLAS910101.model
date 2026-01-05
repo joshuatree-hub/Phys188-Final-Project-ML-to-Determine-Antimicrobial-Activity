@@ -1,0 +1,13 @@
+DEPENDENT :  BLAS910101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    64.451      2 -0.221307     0.027  # O
+    68.493      6  0.097099     0.011  # C
+    99.055      7  0.073142     0.007  # c
+    17.276     11 -0.311819     0.075  # c2
+    42.435     12 -0.276166     0.042  # =
+   261.683     13 -0.630636     0.038  # +
+ABSOLUTE_TERM :     1.032
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         3.9

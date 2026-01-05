@@ -1,0 +1,16 @@
+DEPENDENT :  BASU050103
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    28.170      2 -0.153252     0.028  # O
+     3.726      3 -0.111354     0.057  # N
+     1.306      5  0.188901     0.165  # N=
+     5.501      6  0.047571     0.020  # C
+    16.136      7  0.069911     0.017  # c
+     2.573      8  0.085183     0.053  # [C@
+     6.569     10 -0.107994     0.042  # c1
+     6.458     11 -0.283152     0.111  # c2
+    10.379     13 -0.212396     0.065  # +
+ABSOLUTE_TERM :     0.394
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	9
+FISHER STAT.         1

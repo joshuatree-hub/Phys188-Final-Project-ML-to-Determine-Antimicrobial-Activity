@@ -1,0 +1,15 @@
+DEPENDENT :  ISOY800104
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     3.890      3  0.325244     0.164  # N
+     1.389      5 -0.579573     0.491  # N=
+     8.409      6 -0.174248     0.060  # C
+    74.394      7 -0.440241     0.051  # c
+     1.185      8  0.171552     0.157  # [C@
+     6.084      9 -0.447337     0.181  # S
+    77.689     10  1.105955     0.125  # c1
+     6.638     11  0.833437     0.323  # c2
+ABSOLUTE_TERM :     1.122
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1

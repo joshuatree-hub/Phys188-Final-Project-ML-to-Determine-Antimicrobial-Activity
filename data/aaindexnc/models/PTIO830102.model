@@ -1,0 +1,14 @@
+DEPENDENT :  PTIO830102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    13.775      2 -0.868505     0.233  # O
+     5.324      6  0.358781     0.155  # C
+    20.789      7  0.657452     0.144  # c
+     5.105      8  0.961790     0.425  # [C@
+     9.280     10 -1.053395     0.345  # c1
+     7.593     11 -2.542054     0.922  # c2
+    16.795     13 -1.879777     0.458  # +
+ABSOLUTE_TERM :     1.288
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.1

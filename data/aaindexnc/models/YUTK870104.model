@@ -1,0 +1,14 @@
+DEPENDENT :  YUTK870104
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    14.186      2 -0.656616     0.174  # O
+     3.671      3 -0.438205     0.228  # N
+  1009.104      5 -18.28524     0.575  # N=
+     7.681      6  0.153890     0.055  # C
+     6.103      9 -0.527013     0.213  # S
+    32.461     11 -1.668122     0.292  # c2
+     3.557     12  0.600068     0.318  # =
+ABSOLUTE_TERM :    19.227
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1

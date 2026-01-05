@@ -1,0 +1,14 @@
+DEPENDENT :  SUEM840101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     4.839      2 -0.083461     0.037  # O
+    25.575      6  0.106840     0.021  # C
+    25.559      7  0.109464     0.021  # c
+     2.709      9  0.132597     0.080  # S
+    12.405     10 -0.188121     0.053  # c1
+     2.310     11 -0.214034     0.140  # c2
+     3.994     13 -0.141333     0.070  # +
+ABSOLUTE_TERM :     0.667
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1

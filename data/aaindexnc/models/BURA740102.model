@@ -1,0 +1,11 @@
+DEPENDENT :  BURA740102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     5.480      1 -0.086070     0.036  # =O
+     8.464      4 -0.088792     0.030  # n
+     1.327      8  0.042893     0.037  # [C@
+     3.874      9  0.095679     0.048  # S
+ABSOLUTE_TERM :     0.401
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	4
+FISHER STAT.         1.2

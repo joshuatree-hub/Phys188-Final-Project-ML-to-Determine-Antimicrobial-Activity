@@ -1,0 +1,14 @@
+DEPENDENT :  GOLD730101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     7.820      2 -0.501819     0.179  # O
+     3.348      4 -0.429769     0.234  # n
+    46.753      6  0.563912     0.082  # C
+    14.364      7  0.248368     0.065  # c
+     4.862     10  0.407384     0.184  # c1
+     2.961     12 -0.481532     0.279  # =
+    10.278     13 -0.987046     0.307  # +
+ABSOLUTE_TERM :     0.465
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.1

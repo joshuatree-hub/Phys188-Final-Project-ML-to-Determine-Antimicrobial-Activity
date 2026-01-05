@@ -1,0 +1,15 @@
+DEPENDENT :  CHAM810101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     2.286      2 -0.131263     0.086  # O
+     5.547      3 -0.168058     0.071  # N
+    13.578      6  0.124237     0.033  # C
+    15.543      7  0.111396     0.028  # c
+     3.587      8  0.174714     0.092  # [C@
+     8.198     10 -0.197203     0.068  # c1
+     2.739     11 -0.302694     0.182  # c2
+     3.683     12  0.308014     0.160  # =
+ABSOLUTE_TERM :     0.081
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1

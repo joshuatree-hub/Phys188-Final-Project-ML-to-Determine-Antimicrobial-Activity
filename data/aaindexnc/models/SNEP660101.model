@@ -1,0 +1,15 @@
+DEPENDENT :  SNEP660101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     2.052      1  0.034047     0.023  # =O
+     9.097      2 -0.042653     0.014  # O
+     3.352      6  0.010783     0.005  # C
+     9.271      7  0.015634     0.005  # c
+     2.894      8  0.028075     0.016  # [C@
+    12.411     10 -0.043537     0.012  # c1
+     6.644     11 -0.085510     0.033  # c2
+     5.506     13 -0.038530     0.016  # +
+ABSOLUTE_TERM :     0.221
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1

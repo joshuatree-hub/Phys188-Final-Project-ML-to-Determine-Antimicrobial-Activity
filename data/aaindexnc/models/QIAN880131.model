@@ -1,0 +1,15 @@
+DEPENDENT :  QIAN880131
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    31.158      1  0.609255     0.109  # =O
+     2.061      4 -0.184597     0.128  # n
+    31.526      6 -0.276474     0.049  # C
+    50.832      7 -0.280491     0.039  # c
+     4.878      8  0.270638     0.122  # [C@
+    48.928     10  0.671246     0.095  # c1
+     4.087     11  0.545580     0.269  # c2
+    25.481     13  0.858966     0.170  # +
+ABSOLUTE_TERM :     0.049
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1

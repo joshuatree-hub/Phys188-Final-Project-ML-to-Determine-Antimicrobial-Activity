@@ -1,0 +1,12 @@
+DEPENDENT :  RACS820103
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     7.351      2  1.429418     0.527  # O
+     5.449      3  1.060462     0.454  # N
+     2.604      9 -1.094438     0.678  # S
+     4.191     10 -0.524045     0.255  # c1
+     3.813     12 -1.884202     0.964  # =
+ABSOLUTE_TERM :    -0.940
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	5
+FISHER STAT.         1

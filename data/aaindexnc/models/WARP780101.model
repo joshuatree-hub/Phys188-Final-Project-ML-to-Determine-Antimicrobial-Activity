@@ -1,0 +1,14 @@
+DEPENDENT :  WARP780101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    87.511      2 -1.641434     0.175  # O
+    20.608      3 -1.703893     0.375  # N
+     5.177      4  0.883432     0.388  # n
+    26.416      5  5.187786     1.009  # N=
+     5.919     10 -0.380758     0.156  # c1
+     1.977     11 -0.917243     0.652  # c2
+    20.484     13 -2.761434     0.610  # +
+ABSOLUTE_TERM :    13.852
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.8

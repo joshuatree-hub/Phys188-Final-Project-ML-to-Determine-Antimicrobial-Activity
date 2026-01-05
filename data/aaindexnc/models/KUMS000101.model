@@ -1,0 +1,14 @@
+DEPENDENT :  KUMS000101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     4.469      2 -0.973066     0.460  # O
+    11.394      3 -2.810282     0.832  # N
+    10.861      4 -2.093759     0.635  # n
+     3.773      5  5.138519     2.645  # N=
+     2.704      8 -1.206419     0.733  # [C@
+    39.833      9 -6.442326     1.020  # S
+    22.199     10 -1.877045     0.398  # c1
+ABSOLUTE_TERM :    13.855
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.9

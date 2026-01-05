@@ -1,0 +1,15 @@
+DEPENDENT :  ZHOH040101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    20.862      2 -0.826474     0.180  # O
+    26.441      6  0.583127     0.113  # C
+    61.970      7  0.824769     0.104  # c
+     1.324      8  0.355920     0.309  # [C@
+     4.630      9  0.823795     0.382  # S
+     7.847     10 -0.714665     0.255  # c1
+     2.503     11 -1.061899     0.671  # c2
+    23.561     13 -1.659212     0.341  # +
+ABSOLUTE_TERM :     1.900
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1

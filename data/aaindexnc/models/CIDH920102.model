@@ -1,0 +1,15 @@
+DEPENDENT :  CIDH920102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    31.150      2 -0.761224     0.136  # O
+     2.667      3 -0.248410     0.152  # N
+    30.026      6  0.433143     0.079  # C
+    37.027      7  0.472257     0.077  # c
+     6.018      9  0.710099     0.289  # S
+     3.769     10 -0.374021     0.192  # c1
+     1.657     11 -0.651770     0.506  # c2
+     4.901     13 -0.671079     0.303  # +
+ABSOLUTE_TERM :     0.343
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1.2

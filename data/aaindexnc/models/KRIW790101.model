@@ -1,0 +1,14 @@
+DEPENDENT :  KRIW790101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    19.873      2  1.210633     0.271  # O
+    31.406      7 -0.802495     0.143  # c
+    11.017      8 -1.366600     0.411  # [C@
+    14.504      9 -2.184167     0.573  # S
+    14.846     10  1.460416     0.379  # c1
+     4.102     11  2.009962     0.992  # c2
+    32.064     13  2.756522     0.486  # +
+ABSOLUTE_TERM :     3.214
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.8

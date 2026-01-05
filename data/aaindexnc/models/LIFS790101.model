@@ -1,0 +1,15 @@
+DEPENDENT :  LIFS790101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    24.332      1 -0.700144     0.141  # =O
+     1.585      3  0.153333     0.121  # N
+     5.362      4  0.444979     0.192  # n
+    21.608      6  0.231801     0.049  # C
+    27.558      7  0.242267     0.046  # c
+    19.434     10 -0.499689     0.113  # c1
+     5.228     11 -0.779513     0.340  # c2
+    13.220     13 -1.122846     0.308  # +
+ABSOLUTE_TERM :     0.787
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1.1

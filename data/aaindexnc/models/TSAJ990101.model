@@ -1,0 +1,14 @@
+DEPENDENT :  TSAJ990101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    29.499      3  8.054012     1.482  # N
+    13.124      4  8.112993     2.239  # n
+   694.713      6 24.637579     0.934  # C
+   495.963      7 20.062526     0.900  # c
+    37.386      9 19.664394     3.216  # S
+    15.865     10 -8.761592     2.199  # c1
+     6.153     11 -14.53804     5.860  # c2
+ABSOLUTE_TERM :     7.881
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         2.3

@@ -1,0 +1,14 @@
+DEPENDENT :  CRAJ730101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     1.167      2 -0.186881     0.172  # O
+     5.462      3 -0.349727     0.149  # N
+     3.441      4  0.276134     0.148  # n
+     4.164      6  0.123209     0.060  # C
+     4.371      7  0.105052     0.050  # c
+     5.923     10 -0.341329     0.140  # c1
+     2.702     12  0.522901     0.318  # =
+ABSOLUTE_TERM :     0.772
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.1

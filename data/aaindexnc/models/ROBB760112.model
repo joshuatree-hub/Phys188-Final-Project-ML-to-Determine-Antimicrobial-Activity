@@ -1,0 +1,14 @@
+DEPENDENT :  ROBB760112
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     3.974      3  3.034060     1.521  # N
+     2.061      5 -6.693090     4.661  # N=
+    11.427      6 -1.675030     0.495  # C
+    14.914      7 -1.840121     0.476  # c
+     5.756      9 -4.140969     1.725  # S
+    10.738     10  3.867030     1.180  # c1
+     4.843     11  6.770909     3.076  # c2
+ABSOLUTE_TERM :     3.407
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.2

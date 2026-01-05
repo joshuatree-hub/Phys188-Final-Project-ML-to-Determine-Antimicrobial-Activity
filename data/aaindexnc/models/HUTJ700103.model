@@ -1,0 +1,15 @@
+DEPENDENT :  HUTJ700103
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     3.083      2  9.085746     5.174  # O
+    12.913      3 21.484628     5.978  # N
+    28.934      6 18.673275     3.471  # C
+    22.778      7 11.716339     2.454  # c
+     2.615      8 14.828404     9.169  # [C@
+     6.553      9 28.374061    11.084  # S
+     2.355     10 -10.96856     7.147  # c1
+    24.868     13 56.444464    11.318  # +
+ABSOLUTE_TERM :    53.668
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1.7

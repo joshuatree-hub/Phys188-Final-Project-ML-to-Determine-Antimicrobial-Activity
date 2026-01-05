@@ -1,0 +1,15 @@
+DEPENDENT :  GUOD860101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    86.469      2 -27.62476     2.970  # O
+    34.052      3 -33.97644     5.822  # N
+    26.244      5 87.232156    17.027  # N=
+   152.421      6 22.297234     1.806  # C
+   109.679      7 18.556172     1.771  # c
+    26.223     10 -22.19473     4.334  # c1
+     2.955     11 -19.85491    11.549  # c2
+   150.635     13 -83.98951     6.843  # +
+ABSOLUTE_TERM :    47.129
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         2.7

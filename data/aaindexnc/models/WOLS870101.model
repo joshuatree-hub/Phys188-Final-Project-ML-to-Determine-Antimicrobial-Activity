@@ -1,0 +1,13 @@
+DEPENDENT :  WOLS870101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+   111.068      2  2.427300     0.230  # O
+    21.668      3  2.134168     0.458  # N
+     9.081      5 -4.075027     1.352  # N=
+    95.809      6 -1.380595     0.141  # C
+   111.306      7 -0.710333     0.067  # c
+    68.979     13  4.408229     0.530  # +
+ABSOLUTE_TERM :    -2.560
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         3.6

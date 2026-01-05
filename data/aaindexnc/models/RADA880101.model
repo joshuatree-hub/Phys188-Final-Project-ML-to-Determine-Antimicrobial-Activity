@@ -1,0 +1,14 @@
+DEPENDENT :  RADA880101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+   385.653      2 -5.218188     0.265  # O
+   171.557      3 -4.110659     0.313  # N
+    41.930      6  1.055962     0.163  # C
+    39.188      7  1.004823     0.160  # c
+    21.580     10 -1.820408     0.391  # c1
+    11.822     11 -3.596658     1.046  # c2
+   125.152     13 -6.934624     0.619  # +
+ABSOLUTE_TERM :    12.908
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         4.4

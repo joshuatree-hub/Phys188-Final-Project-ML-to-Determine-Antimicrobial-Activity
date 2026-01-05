@@ -1,0 +1,12 @@
+DEPENDENT :  MAXF760102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    21.887      1 -0.333603     0.071  # =O
+     3.208      8  0.124632     0.069  # [C@
+     3.717     10  0.073687     0.038  # c1
+     1.278     11 -0.153479     0.135  # c2
+     4.926     13 -0.170666     0.076  # +
+ABSOLUTE_TERM :     1.285
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	5
+FISHER STAT.         1

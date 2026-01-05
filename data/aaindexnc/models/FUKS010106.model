@@ -1,0 +1,13 @@
+DEPENDENT :  FUKS010106
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     7.893      2 -2.697770     0.960  # O
+    21.536      9 -7.165230     1.543  # S
+    12.685     10 -2.256983     0.633  # c1
+     2.760     11 -3.656263     2.200  # c2
+     2.138     12 -2.087848     1.427  # =
+    15.080     13 -5.335286     1.373  # +
+ABSOLUTE_TERM :    16.933
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1.5

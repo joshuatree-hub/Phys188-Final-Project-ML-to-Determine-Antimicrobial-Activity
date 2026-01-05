@@ -1,0 +1,13 @@
+DEPENDENT :  JUKT750101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     3.627      3 -0.292995     0.153  # N
+    28.280      4 -1.077747     0.202  # n
+    11.796      8 -0.816990     0.237  # [C@
+   102.833      9 -3.250971     0.320  # S
+    71.298     10 -1.091044     0.129  # c1
+    19.399     12 -1.177975     0.267  # =
+ABSOLUTE_TERM :     6.738
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         2.8

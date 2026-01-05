@@ -1,0 +1,16 @@
+DEPENDENT :  TAKK010101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     1.211      1  2.803530     2.547  # =O
+    13.989      2 -5.343546     1.428  # O
+    16.022      3 -6.783370     1.694  # N
+     2.615      4 -1.806091     1.116  # n
+     4.171      5 10.576916     5.178  # N=
+    33.723      6  3.096479     0.533  # C
+   109.128      7  2.405656     0.230  # c
+     2.017      8  2.059131     1.449  # [C@
+     4.454      9 -3.430234     1.625  # S
+ABSOLUTE_TERM :    11.102
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	9
+FISHER STAT.         1.1

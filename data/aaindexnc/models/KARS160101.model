@@ -1,0 +1,13 @@
+DEPENDENT :  KARS160101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     7.586      2  0.457689     0.166  # O
+   174.656      6  0.936547     0.070  # C
+   920.183      7  1.063555     0.035  # c
+    12.055      9  0.905366     0.260  # S
+    27.473     12  1.313407     0.250  # =
+    39.605     13  1.467460     0.233  # +
+ABSOLUTE_TERM :    -2.880
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         3.4

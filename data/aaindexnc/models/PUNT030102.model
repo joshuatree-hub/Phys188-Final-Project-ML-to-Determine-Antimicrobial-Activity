@@ -1,0 +1,12 @@
+DEPENDENT :  PUNT030102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    65.755      2  0.266193     0.032  # O
+    15.601      7 -0.060208     0.015  # c
+    11.719      8 -0.183744     0.053  # [C@
+     9.532     10  0.144563     0.046  # c1
+    40.460     13  0.383648     0.060  # +
+ABSOLUTE_TERM :    -0.513
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	5
+FISHER STAT.         3.5

@@ -1,0 +1,12 @@
+DEPENDENT :  ARGP820103
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     1.474      1 -0.635889     0.523  # =O
+     1.610      2 -0.405752     0.319  # O
+     4.241      6  0.222298     0.107  # C
+     2.353      9  0.674131     0.439  # S
+    12.005     13 -1.346500     0.388  # +
+ABSOLUTE_TERM :     1.979
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	5
+FISHER STAT.         1.4

@@ -1,0 +1,15 @@
+DEPENDENT :  VHEG790101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+   142.845      2 17.272396     1.445  # O
+    41.702      5 29.842740     4.621  # N=
+    32.869      7 -4.380313     0.764  # c
+     6.689      8 -5.666517     2.190  # [C@
+    16.601      9 12.437843     3.052  # S
+    26.360     10 10.356421     2.017  # c1
+     6.047     11 13.032510     5.299  # c2
+    65.175     13 24.280103     3.007  # +
+ABSOLUTE_TERM :   -43.771
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         2

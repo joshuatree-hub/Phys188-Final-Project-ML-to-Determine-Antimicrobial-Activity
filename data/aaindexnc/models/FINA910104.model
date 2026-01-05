@@ -1,0 +1,15 @@
+DEPENDENT :  FINA910104
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    27.679      3  0.441353     0.083  # N
+     1.061      5 -0.253383     0.245  # N=
+    41.266      7  0.147827     0.023  # c
+     9.219      8 -0.205764     0.067  # [C@
+     1.642      9 -0.117293     0.091  # S
+    69.143     10 -0.508646     0.061  # c1
+     3.181     11 -0.282623     0.158  # c2
+    40.038     12 -0.487969     0.077  # =
+ABSOLUTE_TERM :     1.369
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1

@@ -1,0 +1,16 @@
+DEPENDENT :  DAWD720101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    12.067      3  1.471052     0.423  # N
+     4.528      4  0.685526     0.322  # n
+     3.770      5 -2.452631     1.263  # N=
+    42.197      6  1.010526     0.155  # C
+    17.056      7  0.545175     0.132  # c
+     4.036      8  0.813157     0.404  # [C@
+     4.423      9  0.981578     0.466  # S
+     2.271     10  0.485526     0.322  # c1
+     3.266     11 -1.525877     0.844  # c2
+ABSOLUTE_TERM :    -2.807
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	9
+FISHER STAT.         1

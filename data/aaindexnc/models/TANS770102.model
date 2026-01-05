@@ -1,0 +1,13 @@
+DEPENDENT :  TANS770102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     9.344      4  0.624565     0.204  # n
+     6.696      7 -0.201750     0.077  # c
+     8.283      8  0.642921     0.223  # [C@
+     6.049      9 -0.714736     0.290  # S
+     8.225     10  0.568881     0.198  # c1
+     2.368     11  0.821434     0.533  # c2
+ABSOLUTE_TERM :     0.312
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1.3

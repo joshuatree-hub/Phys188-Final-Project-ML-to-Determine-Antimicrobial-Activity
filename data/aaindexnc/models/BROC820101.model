@@ -1,0 +1,12 @@
+DEPENDENT :  BROC820101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    15.139      2 -6.629990     1.703  # O
+     7.625      6  2.680585     0.970  # C
+    16.576      7  2.020717     0.496  # c
+     3.700      9 -7.131665     3.707  # S
+    17.188     13 -13.16630     3.175  # +
+ABSOLUTE_TERM :     7.869
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	5
+FISHER STAT.         1.4

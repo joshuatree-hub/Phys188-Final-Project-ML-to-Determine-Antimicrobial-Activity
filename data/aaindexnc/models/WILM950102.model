@@ -1,0 +1,15 @@
+DEPENDENT :  WILM950102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    13.644      2 -3.015332     0.816  # O
+     2.373      5  4.021692     2.610  # N=
+     7.095      7  1.149540     0.431  # c
+     4.173      8  2.528286     1.237  # [C@
+     5.288      9 -3.965474     1.724  # S
+     1.608     10 -1.445237     1.139  # c1
+     1.118     11 -3.166324     2.993  # c2
+    10.604     13 -5.532167     1.698  # +
+ABSOLUTE_TERM :     6.272
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1

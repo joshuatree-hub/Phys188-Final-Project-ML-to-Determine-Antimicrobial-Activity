@@ -1,0 +1,13 @@
+DEPENDENT :  ZIMJ680101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    31.022      6  0.578824     0.103  # C
+     4.391      7  0.218432     0.104  # c
+     3.034     10  0.443310     0.254  # c1
+    19.622     11 -2.979809     0.672  # c2
+    18.166     12 -1.130389     0.265  # =
+     3.876     13 -0.626117     0.318  # +
+ABSOLUTE_TERM :     0.049
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1

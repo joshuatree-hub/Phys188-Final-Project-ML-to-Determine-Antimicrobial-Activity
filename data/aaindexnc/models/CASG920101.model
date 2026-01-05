@@ -1,0 +1,16 @@
+DEPENDENT :  CASG920101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    32.540      2 -0.978403     0.171  # O
+     5.991      4  0.794131     0.324  # n
+     2.068      5  0.900000     0.625  # N=
+    16.653      7  0.373200     0.091  # c
+     4.545      8  0.554225     0.259  # [C@
+     4.678      9  0.784272     0.362  # S
+     8.738     10 -0.707863     0.239  # c1
+     3.114     11 -1.179733     0.668  # c2
+    17.714     13 -2.015727     0.478  # +
+ABSOLUTE_TERM :     1.818
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	9
+FISHER STAT.         1

@@ -1,0 +1,12 @@
+DEPENDENT :  CHOC760103
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    23.161      2 -0.156771     0.032  # O
+     9.726      3 -0.196255     0.062  # N
+     3.751      5  0.367899     0.189  # N=
+     6.087     10 -0.065476     0.026  # c1
+     8.334     13 -0.214855     0.074  # +
+ABSOLUTE_TERM :     0.955
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	5
+FISHER STAT.         1.9

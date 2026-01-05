@@ -1,0 +1,15 @@
+DEPENDENT :  FAUJ830101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    13.766      2 -0.648750     0.174  # O
+     5.407      4  0.492181     0.211  # n
+     8.074      6  0.251808     0.088  # C
+    22.936      7  0.176580     0.036  # c
+     1.742      8  0.304454     0.230  # [C@
+     5.467      9  0.596849     0.255  # S
+     2.923     12 -0.455890     0.266  # =
+    52.715     13 -2.016031     0.277  # +
+ABSOLUTE_TERM :     1.229
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1

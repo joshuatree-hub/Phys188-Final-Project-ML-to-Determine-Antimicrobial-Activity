@@ -1,0 +1,14 @@
+DEPENDENT :  KHAG800101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    17.746      2 -21.27045     5.049  # O
+     9.308      4 29.686275     9.730  # n
+    52.519      5 135.18294    18.653  # N=
+     8.400      6 -8.848912     3.053  # C
+     1.497      7 -1.951129     1.594  # c
+    13.159      9 -39.80795    10.973  # S
+     3.846     13 -27.69307    14.120  # +
+ABSOLUTE_TERM :   121.144
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1

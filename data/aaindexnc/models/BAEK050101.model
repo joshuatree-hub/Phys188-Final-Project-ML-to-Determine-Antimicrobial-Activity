@@ -1,0 +1,14 @@
+DEPENDENT :  BAEK050101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     7.812      2 -0.159330     0.057  # O
+    20.987      7  0.137702     0.030  # c
+     1.434      8  0.103502     0.086  # [C@
+     2.696      9  0.197678     0.120  # S
+    10.509     10 -0.257910     0.079  # c1
+     2.082     11 -0.300620     0.208  # c2
+     3.501     13 -0.191220     0.102  # +
+ABSOLUTE_TERM :     0.312
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.1

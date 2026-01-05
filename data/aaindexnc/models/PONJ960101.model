@@ -1,0 +1,15 @@
+DEPENDENT :  PONJ960101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    21.264      2 11.829753     2.565  # O
+    20.364      3 11.237348     2.490  # N
+     2.556      4  6.089645     3.808  # n
+   219.933      6 23.150302     1.561  # C
+   223.567      7 22.497621     1.504  # c
+    22.924      9 27.043403     5.648  # S
+     2.942     10 -6.428449     3.747  # c1
+    29.872     11 -53.37001     9.764  # c2
+ABSOLUTE_TERM :   -14.391
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1.5

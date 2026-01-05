@@ -1,0 +1,14 @@
+DEPENDENT :  DAYM780101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    18.283      4 -1.712118     0.400  # n
+     2.152      6 -0.255299     0.174  # C
+     6.267      7 -0.348627     0.139  # c
+     7.040      8 -1.311406     0.494  # [C@
+    66.276      9 -4.855419     0.596  # S
+     4.895     10 -0.872694     0.394  # c1
+    20.994     12 -2.031179     0.443  # =
+ABSOLUTE_TERM :    11.519
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1

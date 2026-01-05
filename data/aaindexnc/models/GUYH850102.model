@@ -1,0 +1,15 @@
+DEPENDENT :  GUYH850102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    12.180      2  0.598951     0.171  # O
+     9.901      3  0.692643     0.220  # N
+     3.861      5 -1.098181     0.558  # N=
+    17.343      7 -0.181295     0.043  # c
+     4.227      8 -0.327538     0.159  # [C@
+     3.062      9 -0.373664     0.213  # S
+     6.388     10  0.345577     0.136  # c1
+     3.876     12 -0.623413     0.316  # =
+ABSOLUTE_TERM :    -1.175
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	8
+FISHER STAT.         1.1

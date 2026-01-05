@@ -1,0 +1,14 @@
+DEPENDENT :  LAWE840101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    17.470      5  1.053463     0.252  # N=
+   101.450      6  0.423163     0.042  # C
+    16.207      8 -0.489517     0.121  # [C@
+   121.944     10  0.676453     0.061  # c1
+     5.679     11 -0.505644     0.212  # c2
+    97.117     12 -1.109981     0.112  # =
+    57.559     13 -1.085707     0.143  # +
+ABSOLUTE_TERM :     0.142
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.3

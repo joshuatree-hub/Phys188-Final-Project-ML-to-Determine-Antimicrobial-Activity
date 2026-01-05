@@ -1,0 +1,13 @@
+DEPENDENT :  KIMC930101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     8.210      6 -0.040403     0.014  # C
+    22.392      7 -0.063856     0.013  # c
+    17.827      8 -0.169662     0.040  # [C@
+     3.999      9 -0.095601     0.047  # S
+     7.582     10  0.089900     0.032  # c1
+     4.285     11  0.180047     0.086  # c2
+ABSOLUTE_TERM :    -0.038
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1

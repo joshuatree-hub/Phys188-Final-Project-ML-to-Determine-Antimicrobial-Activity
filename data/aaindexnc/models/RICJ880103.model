@@ -1,0 +1,12 @@
+DEPENDENT :  RICJ880103
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     3.176      2  0.424510     0.238  # O
+     3.362      3  0.847784     0.462  # N
+     2.060      5 -2.091985     1.457  # N=
+     8.924      6 -0.453910     0.151  # C
+     4.008      7 -0.144726     0.072  # c
+ABSOLUTE_TERM :     0.975
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	5
+FISHER STAT.         1.1

@@ -1,0 +1,13 @@
+DEPENDENT :  MUNV940104
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     2.298      2  0.076004     0.050  # O
+   149.194      7 -0.344705     0.028  # c
+    24.964      8 -0.410356     0.082  # [C@
+     2.375      9 -0.170066     0.110  # S
+   146.160     10  0.895966     0.074  # c1
+    17.547     11  0.815642     0.194  # c2
+ABSOLUTE_TERM :     1.079
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1.2

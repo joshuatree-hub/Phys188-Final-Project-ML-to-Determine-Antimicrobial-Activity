@@ -1,0 +1,13 @@
+DEPENDENT :  KARP850103
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    11.276      4 -0.077585     0.023  # n
+    11.362      5 -0.149418     0.044  # N=
+     1.683      6 -0.009381     0.007  # C
+     4.159      7 -0.007603     0.003  # c
+     4.823      9 -0.054369     0.024  # S
+    20.674     13  0.150312     0.033  # +
+ABSOLUTE_TERM :     0.956
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	6
+FISHER STAT.         1

@@ -1,0 +1,14 @@
+DEPENDENT :  BULH740102
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     3.191      1 -0.038231     0.021  # =O
+    14.255      2 -0.049616     0.013  # O
+    13.814      3 -0.029563     0.007  # N
+     9.706      4 -0.037443     0.012  # n
+   110.848      6  0.051554     0.004  # C
+    48.723      7  0.017546     0.002  # c
+     6.194      9 -0.043911     0.017  # S
+ABSOLUTE_TERM :     0.671
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         2.3

@@ -1,0 +1,14 @@
+DEPENDENT :  VASM830103
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+     5.264      1  0.243559     0.106  # =O
+     2.990      2 -0.109602     0.063  # O
+     4.454      4 -0.124161     0.058  # n
+     8.566      7  0.066383     0.022  # c
+     6.863      8  0.172419     0.065  # [C@
+     2.184     10  0.083827     0.056  # c1
+     4.030     11 -0.309906     0.154  # c2
+ABSOLUTE_TERM :     0.001
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1

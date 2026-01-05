@@ -1,0 +1,14 @@
+DEPENDENT :  JUNJ780101
+F_VAL         INDEX REG_COEF  ST_ERR_RE 
+    47.017      4 -151.6174    22.111  # n
+     5.352      6 -22.23107     9.609  # C
+     6.470      7 -19.56110     7.689  # c
+    16.097      8 -109.5024    27.292  # [C@
+   153.406      9 -407.9317    32.935  # S
+    22.041     10 -102.2613    21.781  # c1
+    62.059     12 -192.8469    24.479  # =
+ABSOLUTE_TERM :   985.705
+NUMBER_OF_CASES:		20
+NUMBER_OF_VARIABLES: 14
+NUMBER_OF_INCLUDED:	7
+FISHER STAT.         1.4
