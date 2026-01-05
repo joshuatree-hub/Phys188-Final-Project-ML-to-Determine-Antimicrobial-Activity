@@ -11,6 +11,9 @@ This project implements a hierarchical Graph Neural Network (GNN) to predict pep
 - **phys188_final_project_atomic_to_peptide_gnn.ipynb**  
   Contains the two GNNs and predictions, along with application to a bioengineered peptide chain at the end.
 
+- **physics_188_paper_review.pdf**
+  Contains the written review, analysis, and methodology of this project. 
+
 - **README.md**  
   This file, explaining what's what.
 
